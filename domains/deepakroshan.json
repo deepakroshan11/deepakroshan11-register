@@ -4,6 +4,10 @@
     "email": "727822tuam011@skct.edu.in"
   },
   "records": {
-    "CNAME": "portfolio-orcin-nine-r0bxmvmfu0.vercel.app"
+    "CNAME": "portfolio-orcin-nine-r0bxmvmfu0.vercel.app",
+    "TXT": [
+      "vc-domain-verify=deepakroshan.is-a.dev,db01a3efeff28d7217da",
+      "vc-domain-verify=www.deepakroshan.is-a.dev,2846af62b7e56ccd20ba"
+    ]
   }
 }
